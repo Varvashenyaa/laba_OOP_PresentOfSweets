@@ -1,0 +1,11 @@
+# IDE Internal Data
+.idea
+*.iml
+
+# Output dir
+out
+
+# System files
+.DS_Store
+Thumbs.db
+
